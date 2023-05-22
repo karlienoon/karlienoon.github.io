@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <em> There is so much practical information hidden in the sky </em>
 

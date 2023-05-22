@@ -270,8 +270,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # these tags wil
 
 scholar:
 
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Noon]
+  first_name: [Karlie, A.]
 
   style: apa
   locale: en

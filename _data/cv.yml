@@ -42,9 +42,9 @@
   type: time_table
   contents:
     - title: Indigenous Research Associate
-    institution: Research School of Astronomy and Astrophysics
-    year: 2022-2026
-    description:
+      institution: Research School of Astronomy and Astrophysics
+      year: 2022-2026
+      description:
         - I am a co-lecturer and co-conveyor of ASTR1003, an 		introductory astronomy course accessible from the ANU and MOOC
         - I sit as a member of the National Committee for Astronomy, where I report to the committee on community engagement in astronomy at a national level
 
@@ -97,7 +97,7 @@
     - title: Cultural consultant to Bangarra Dance Company
       year: 2023
       description: I was the cultural consultant on Indigenous sky lore for Bangarra's most recent performance, Yuldea
-     - title: Presenter on the First Inventors
+    - title: Presenter on the First Inventors
       year: 2018-2023
       description: I have been working alongside Australian producer Margee Brown since 2018 to craft a new television series looking at the notable inventions of Aboriginal and Torres Strait Islander peoples. In 2020, Channel 10 and NITV agreed to our pitch, and we began filming in 2022. I acted as a co-presenter, consultant and writer for the show, scheduled to air in late 2023.
     - title: Co-author of First Knowledges, Astronomy, Sky Country
@@ -114,25 +114,18 @@
     - year: 2019
       items: 
         - 3M Eureka Prize Emerging Leader in Science finalist
-	      - ACT Young Australian of the Year finalist
+        - ACT Young Australian of the Year finalist 
     - year: 2017
-      items:
+      items: 
         - STEM Professional Early Career Award finalist 
- 	      - Women of the Future finalist
+        - Women of the Future finalist
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Cold clouds in the Milky Way wind
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Using both radio observations and simulations to probe the evolution of neutral and molecular clouds entrained in the Milky Way's nuclear winds
+    - title: Indigenous sky knowledge
       items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - Considering the astronomical observations embedded in Indigenous stories, Songlines and culture

@@ -29,7 +29,9 @@
         <!-- Entry bib key -->
         <div id="{{entry.key}}" class="col-sm-8">
         <!-- Title -->
-        <div class="title">{{entry.title}}</div>
+        <a href="{{entry.url}}"><div class="title">{{entry.title}}</div></a>
+        <!-- Title2 
+        <a href="{{entry.url}}"><div>{{entry.title}}</div></a>-->
         <!-- Author -->
         <div class="author">
         {% assign author_array_size = entry.author_array | size %}
@@ -126,12 +128,15 @@
         {%- endif -%}
         {% assign entrytype_text = entrytype | strip_html | strip %}
         {%- capture periodical -%}{{ entrytype }}{%- if entrytype_text != "" and entryyear != "" -%}, {%- endif -%}{{ entrymonth }}{{ entryyear }}{%- endcapture -%}
+        <!-- Publisher -->
+        <div class="publisher">{{entry.publisher}}</div>
         <div class="periodical">
           {{ periodical | strip }}
         </div>
         <div class="periodical">
           {{ entry.note | strip }}
         </div>
+        
 
           <!-- Links/Buttons -->
           <div class="links">

@@ -19,6 +19,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Ms Karlie Noon is a Gamilaraay astrophysicist with over a decade of experience in science communication. She has extensive experience in Indigenous heritage and STEM education programs for universities, community organisations and government agencies. 
+Ms Karlie Alinta Noon is a Gamilaroi astrophysicist with over a decade's worth of experience in science communication. She has extensive knowledge in Indigenous heritage and STEM education and is passionate about making STEM, including Indigenous knowledges and values, accessible to everyone. 
 
-Karlie is co-author of the award winning First Knowledges - Sky Country book and is currently undertaking a PhD in astronomy and astrophysics at the Australian National University. Karlie's research explores the chemical and dynamic characteristics of cold clouds emanating from the Milky Way's nuclear wind using radio telescopes and simulations.
+Karlie is co-author of the award-winning book Astronomy: Sky Country and is currently undertaking a PhD in astrophysics at the Australian National University. Karlie's research uses radio telescopes and simulations to explore the chemical and dynamic characteristics of cold clouds emanating from the Milky Way's nuclear wind.

@@ -42,20 +42,10 @@
   type: time_table
   contents:
     - title: Indigenous Research Associate
-      institution: Research School of Astronomy and Astrophysics
-      year: 2022-2026
-      description:
-        - I am a co-lecturer and co-conveyor of ASTR1003, an 		introductory astronomy course accessible from the ANU and MOOC
-        - I sit as a member of the National Committee for Astronomy, where I report to the committee on community engagement in astronomy at a national level
-
-- title: Experience
-  type: time_table
-  contents:
-    - title: Indigenous Research Associate
       institution: Research School of Astronomy and Astrophysics, Australian National University
       year: 2022-2026
       description:
-        - I am a co-lecturer and co-conveyor of ASTR1003, an 		introductory astronomy course accessible from the ANU and MOOC
+        - I am a co-lecturer and co-conveyor of ASTR1003, an introductory astronomy course accessible from the ANU and MOOC
         - I sit as a member of the National Committee for Astronomy, where I report to the committee on community engagement in astronomy at a national level
     - title: Astronomy Ambassador
       institution: The Sydney Observatory, Museum of Applied Arts and Sciences
@@ -71,7 +61,6 @@
         - I was the lead officer for the Governmental Response to the Destruction of Juukan Gorge
         - I was a co-assessor for the successful listing of the Parkes Radio Telescope (Murriyang) on the National Heritage List
         - I updated and redesigned the Aboriginal and Torres Strait Islander Heritage Protection Act (1984) standard operating procedures
-
 
     - title: Project Officer
       institution: CSIRO Indigenous STEM Project
@@ -96,10 +85,10 @@
   contents:
     - title: Cultural consultant to Bangarra Dance Company
       year: 2023
-      description: I was the cultural consultant on Indigenous sky lore for Bangarra's most recent performance, Yuldea
-    - title: Presenter on the First Inventors
+      description: I was a cultural consultant on Indigenous sky knowledge for Bangarra's most recent performance, Yuldea
+    - title: Co-Investigator on the First Inventors
       year: 2018-2023
-      description: I have been working alongside Australian producer Margee Brown since 2018 to craft a new television series looking at the notable inventions of Aboriginal and Torres Strait Islander peoples. In 2020, Channel 10 and NITV agreed to our pitch, and we began filming in 2022. I acted as a co-presenter, consultant and writer for the show, scheduled to air in late 2023.
+      description: I have been working alongside Australian producer Margee Brown since 2018 to craft a new television series looking at the notable inventions of Aboriginal and Torres Strait Islander peoples. In 2020, Channel 10 and NITV agreed to our pitch, and we began filming in 2022. I acted as a co-investigator, consultant and writer for the show. The First Inventors was aired in July 2023 and can be accessed via <a href="https://10play.com.au/the-first-inventors">10Play</a>.
     - title: Co-author of First Knowledges, Astronomy, Sky Country
       year: 2020-2022
       description: Partnered with the National Museum, publishers Thames and Hudson, co-author and Gamilaroi woman Krystal De Napoli, and editor Dr Alice Gorman, we published Sky Country in 2022 as part of the First Knowledges series. The series explores different facets of Aboriginal and Torres Strait Islander culture, knowledge and values. In Sky Country, Krystal, Dr Gorman, and I offer readers an in-depth look at Indigenous astronomy. We explore practical knowledge embedded in Indigenous Songlines and stories and consider current issues with the protection and continuation of this ancient knowledge. 
@@ -109,6 +98,7 @@
   contents:
     - year: 2023
       items: 
+        - Included in the Best Science Writing Anthology 2023
         - Astronomy Sky Country highly commended in the National Trust Awards
         - Astronomy Sky Country Victorian Premier's Literary Awards 
     - year: 2019
@@ -125,7 +115,7 @@
   contents:
     - title: Cold clouds in the Milky Way wind
       items: 
-        - Using both radio observations and simulations to probe the evolution of neutral and molecular clouds entrained in the Milky Way's nuclear winds
+        - Using both radio observations and simulations, I probe the evolution of neutral and molecular clouds entrained in the Milky Way's nuclear wind
     - title: Indigenous sky knowledge
       items:
-        - Considering the astronomical observations embedded in Indigenous stories, Songlines and culture
+        - I consider the astronomical observations embedded in Indigenous stories, Songlines and culture

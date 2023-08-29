@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New publications
+title: New publication!
 date: 2023-06-24 15:29:00-0400
 inline: false
 related_posts: false

@@ -6,7 +6,7 @@ subtitle: <em> There is so much practical information hidden in the sky </em>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Karlie Noon Screen-Web 1.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Mount Stromlo Observatory</p>

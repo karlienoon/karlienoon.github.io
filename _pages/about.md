@@ -8,10 +8,6 @@ profile:
   align: right
   image: Karlie Noon Screen-Web 1.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>Mount Stromlo Observatory</p>
-    <p>Cotter Road, Weston Creek</p>
-    <p>ACT 2611 Australia</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts

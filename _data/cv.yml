@@ -100,18 +100,7 @@
   contents:
     - year: 2023
       items: 
-        - Included in the [Best Science Writing Anthology 2023](https://unsw.press/books/best-australian-science-writing-2023/)
-        - Astronomy Sky Country highly commended in the [National Trust Awards](https://www.nationaltrust.org.au/news/revealed-winners-of-the-2023-national-trust-heritage-awards/)
-        - Astronomy Sky Country [Victorian Premier's Literary Awards](https://www.wheelercentre.com/wlr-articles/vpla-2023-shortlist-astronomy-sky-country/)
-    - year: 2019
-      items: 
-        - [3M Eureka Prize Emerging Leader in Science finalist](https://www.anu.edu.au/news/all-news/anu-researchers-nominated-for-%E2%80%98oscars-of-australian-science%E2%80%99#:~:text=Kamilaroi%20woman%20and%20astrophysicist%20Karlie,engage%20underrepresented%20communities%20in%20science.)
-        - [ACT Young Australian of the Year finalist](https://www.northerndailyleader.com.au/story/5722883/karlie-noon-nominated-for-young-australian-of-the-year/)
-    - year: 2017
-      items: 
-        - [STEM Professional Early Career Award finalist](https://www.csiro.au/en/education/programs/indigenous-stem-education-project/indigenous-stem-awards/2017-winners-and-finalists)
-        - [Women of the Future finalist](https://www.nowtolove.com.au/women-of-the-future/the-weekly/inspiring-australian-women-40045)
-
+        - Included in the <a href="https://unsw.press/books/best-australian-science-writing-2023/">Best Science Writing Anthology 2023</a>
 - title: Academic Interests
   type: nested_list
   contents:

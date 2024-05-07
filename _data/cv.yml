@@ -6,9 +6,9 @@
     - name: Date of Birth
       value: 14th August 1990
     - name: Nationality
-      value: Aboriginal Australian (Gamilaroi)
+      value: Aboriginal Australian (Kamilaroi)
     - name: Languages
-      value: English, Gamilaroi
+      value: English, Kamilaroi
 
 - title: Education
   type: time_table
@@ -93,13 +93,15 @@
       description: Working alongside Australian producer Margee Brown since 2018, Karlie assisted in the crafting of a new television series looking at the notable inventions of Aboriginal and Torres Strait Islander peoples. In 2020, Channel 10 and NITV agreed to the pitch, and began filming in 2022. Karlie acted as a co-investigator, consultant and writer for the show. The First Inventors aired in July 2023 and can be accessed via <a href="https://10play.com.au/the-first-inventors">10Play</a>.
     - title: Co-author of First Knowledges, Astronomy, Sky Country
       year: 2020-2022
-      description: Partnered with the National Museum, publishers Thames and Hudson, co-author and Gamilaroi woman Krystal De Napoli, and editor Dr Alice Gorman, the award-winning Sky Country was published in 2022 as part of the First Knowledges series. The series explores different facets of Aboriginal and Torres Strait Islander culture, knowledge and values. Sky Country offers readers an in-depth look at Indigenous astronomy. The authors explore practical knowledge embedded in Indigenous Songlines and stories and consider current issues with the protection and continuation of this ancient knowledge. 
+      description: Partnered with the National Museum, publishers Thames and Hudson, co-author and Kamilaroi woman Krystal De Napoli, and editor Dr Alice Gorman, the award-winning Sky Country was published in 2022 as part of the First Knowledges series. The series explores different facets of Aboriginal and Torres Strait Islander culture, knowledge and values. Sky Country offers readers an in-depth look at Indigenous astronomy. The authors explore practical knowledge embedded in Indigenous Songlines and stories and consider current issues with the protection and continuation of this ancient knowledge. 
 
 - title: Honors and Awards
   type: time_table
   contents:
     - year: 2023
       items: 
+        - Received the Joan Duffield Research Scholarship for research achievements from the Research School of Astronomy and Astrophysics
+        - Recipient of the Zonta Club of Canberra Breakfast’s Scholarship 
         - Writting featured in the <a href="https://unsw.press/books/best-australian-science-writing-2023/">Best Science Writing Anthology 2023</a>
         - Astronomy Sky Country highly commended in the <a href="https://www.nationaltrust.org.au/news/revealed-winners-of-the-2023-national-trust-heritage-awards">National Trust Awards</a>
         - Astronomy Sky Country Awarded People's Choice in the <a href="https://www.wheelercentre.com/wlr-articles/vpla-2023-shortlist-astronomy-sky-country/">Victorian Premier's Literary Awards</a>
@@ -118,7 +120,7 @@
   contents:
     - title: Cold clouds in the Milky Way wind
       items: 
-        - Using both radio observations and simulations, Karlie probes the evolution of neutral and molecular clouds entrained in the Milky Way's nuclear wind
+        - Using radio and submillimeter observations and simulations, Karlie probes the evolution of atomic and molecular clouds entrained in the Milky Way's nuclear wind
     - title: Indigenous sky knowledge
       items:
-        - Karlie researchers, embeddes and shares the astronomical observations contained within Indigenous stories, Songlines and culture. Particularly knowledge embedded within Gamilaroi culture.
+        - Karlie researchers, embeddes and shares the astronomical observations contained within Indigenous stories, Songlines and culture. Particularly knowledge embedded within Kamilaroi culture.

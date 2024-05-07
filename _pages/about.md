@@ -6,7 +6,7 @@ subtitle: <em> There is so much practical information hidden in the sky </em>
 
 profile:
   align: right
-  image: graduate.jpg
+  image: graduate.jpeg
   image_circular: false # crops the image to make it circular
 
 news: true  # includes a list of news items

@@ -32,9 +32,13 @@
         <a href="{{entry.url}}"><div class="title">{{entry.title}}</div></a>
         <!-- Title2 
         <a href="{{entry.url}}"><div>{{entry.title}}</div></a>-->
+        <!-- Small picture -->
+        <img src="entry.picture" style="width: 50px; height: auto; float: left; margin-right: 10px;">
+    
         <!-- Author -->
         <div class="author">
         {% assign author_array_size = entry.author_array | size %}
+
 
         {% assign author_array_limit = author_array_size %}
         {%- if site.max_author_limit and author_array_size > site.max_author_limit %}

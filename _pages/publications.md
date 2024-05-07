@@ -12,7 +12,6 @@ nav_order: 1
 {%- for y in page.years %}
   <h2 class="year">{{y}}</h2>
   {% bibliography -f {{ site.scholar.bibliography }} -q @*[year={{y}}]* %}
-  <img src="assets/img/rhfssoos.jpg" alt="Picture" class="small-picture">
 {% endfor %}
 
 </div>

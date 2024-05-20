@@ -6,4 +6,5 @@ inline: false
 related_posts: false
 ---
 
-My wonderful collegue, Bella Gerrard and I have recently published our investigation into the turbulence driving parameter of our favourtie Milky Way wind clouds. The work found that the clouds are in a mostly compressive mode, check out the paper for more details: <a href="https://academic.oup.com/mnras/article/530/4/4317/7660574?login=false">Turbulence statistics of HI clouds entrained in the Milky Way’s nuclear wind</a>.
+My wonderful collegue, Bella Gerrard and I led an investigation into the turbulence driving parameter of our favourtie Milky Way wind clouds. The investigation found the clouds to be in a mostly compressive state, representing a unique object in the mach number vs density dispersion space for our galaxy.
+Check out the paper for more details: <a href="https://academic.oup.com/mnras/article/530/4/4317/7660574?login=false">Turbulence statistics of HI clouds entrained in the Milky Way’s nuclear wind</a>.

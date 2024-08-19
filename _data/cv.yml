@@ -17,10 +17,10 @@
       institution: Australian National University, Australia
       year: Present
       description:
-        - title: Karlie is the principle investigator for a small team of expert observers and theorists exploring the HI-H2 phase transition in the Galaxy's nuclear wind.
+        - title: Karlie investigates cold gas in the Galaxy's nuclear wind using telescopes and theoretical modelling.
           contents:
             - Successfully awarded telescope time on the Institut de Radio Astronomie Millimetrique telescope
-            - Successfully awarded Priority A time on the MeerKAT telescope
+            - Principle Investigator for Priority A observations of the Galactic Centre using the MeerKAT telescope
     - title: Masters of Astronomy and Astrophysics (Advanced)
       institution: Australian National University, CSIRO, Australia
       year: 2019
@@ -36,7 +36,6 @@
         - title: Majors include pure mathematics and physics.
           contents:
             - Awarded multiple high distinctions for courses including *Mathematical Modelling*, *Science and Professional Communication*, *Physics Industrial Project* and *Working with Aboriginal Communities*
-            - Karlie was the first Aboriginal woman to obtain these degrees in Australia
             - Successful recipient of the SMART Scholarship and the Science and Engineering Scholarship, which provided essential experience and training in science communication and event assistance
 
 - title: Experience
@@ -67,8 +66,8 @@
       institution: CSIRO Indigenous STEM Project
       year: 2016-2017
       description:
-        - Cultural mentor for multiple STEM camps
         - Project manager of the Inaugural Indigenous STEM Awards
+        - Cultural mentor for Indigenous STEM camps
         - title: Part-time research assistant for the monitoring and evaluation of the Project
           contents:
             - Received multiple ethics approvals to conduct monitoring and evaluation
@@ -100,7 +99,7 @@
   contents:
     - year: 2023
       items: 
-        - Received the Joan Duffield Research Scholarship for research achievements from the Research School of Astronomy and Astrophysics
+        - Received the Joan Duffield Research Scholarship for research achievements from ANU's Research School of Astronomy and Astrophysics
         - Recipient of the Zonta Club of Canberra Breakfast’s Scholarship 
         - Writting featured in the <a href="https://unsw.press/books/best-australian-science-writing-2023/">Best Science Writing Anthology 2023</a>
         - Astronomy Sky Country highly commended in the <a href="https://www.nationaltrust.org.au/news/revealed-winners-of-the-2023-national-trust-heritage-awards">National Trust Awards</a>
@@ -114,13 +113,25 @@
         - <a href="https://www.csiro.au/en/education/programs/indigenous-stem-education-project/indigenous-stem-awards/2017-winners-and-finalists)">CSIRO STEM Professional Early Career</a> Award finalist
         - <a href="https://www.nowtolove.com.au/women-of-the-future/the-weekly/inspiring-australian-women-40045)">Women's Weekly Women of the Future</a> finalist
 
+- title: Conference Presentations
+  type: time_table
+  contents:
+    - title:
+      year: 2024
+      description: 
+        - Karlie was invited to the Dhuluny Conference held in Bathurst commemorating the 200th year anniversary since martial law was declared on the Wiradyuri nation. Karlie presented on what would have been visible in the sky during this time.
+    - title:
+      year: 2023
+      description: 
+        - Karlie was invited to speak at the 2023 Asteroids, Comets and Meteors conference in Flagstaff, Arizona. She presented her research on safeguarding Indigenous sky rights from colonial exploitation.
+        - Presenting her first paper of her PhD, Karlie attended the 2023 Interstellar Institute in Paris, France.
 
 - title: Academic Interests
   type: nested_list
   contents:
     - title: Cold clouds in the Milky Way wind
       items: 
-        - Using radio and submillimeter observations and simulations, Karlie probes the evolution of atomic and molecular clouds entrained in the Milky Way's nuclear wind
+        - Using radio and submillimeter observations and simulations, Karlie probes the evolution of atomic and molecular clouds entrained in the Milky Way's nuclear wind, with particular interest in the non-equilibrium chemistry of these clouds.
     - title: Indigenous sky knowledge
       items:
-        - Karlie researchers, embeddes and shares the astronomical observations contained within Indigenous stories, Songlines and culture. Particularly knowledge embedded within Kamilaroi culture.
+        - Karlie researchers, embeddes and shares the astronomical knowledge of Indigenous peoples, Songlines and culture.

@@ -8,7 +8,7 @@ nav_order: 5
 
 profile:
   align: right
-  image: teaching.jpg
+  image: playschool Science Time - 3rd May 2024-13099.jpg
   image_circular: false
 
 ---

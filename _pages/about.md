@@ -6,7 +6,7 @@ subtitle: <em> There is so much practical information hidden in the sky </em>
 
 profile:
   align: right
-  image: graduate.jpeg
+  image: playschool Science Time - 3rd May 2024-13099.jpg
   image_circular: false # crops the image to make it circular
 
 news: true  # includes a list of news items

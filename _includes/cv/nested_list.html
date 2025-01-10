@@ -2,19 +2,17 @@
   {% for content in entry.contents %}
     <li class="list-group-item">
       <h5 class="font-italic">{{ content.title }}</h5>
-      
+
       {% if content.items %}
         <!-- First item as a paragraph -->
         <p class="lead">{{ content.items.0 }}</p>
 
         <!-- Remaining items as a list -->
-        {% if content.items|length > 1 %}
-          <ul class="subitems">
-            {% for subitem in content.items.1: %}
-              <li><span class="subitem">{{ subitem }}</span></li>
-            {% endfor %}
-          </ul>
-        {% endif %}
+        <ul class="subitems">
+          {% for subitem in content.items|slice:"1:" %}
+            <li><span class="subitem">{{ subitem }}</span></li>
+          {% endfor %}
+        </ul>
       {% endif %}
     </li>
   {% endfor %}

@@ -6,7 +6,7 @@ subtitle: <em> There is so much practical information hidden in the sky </em>
 
 profile:
   align: right
-  image: IMG_9943.jpg
+  image: Deadly Dialogues 3 October 2024-0053.jpg
   image_circular: false # crops the image to make it circular
 
 news: true  # includes a list of news items

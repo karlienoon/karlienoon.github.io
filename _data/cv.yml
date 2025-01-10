@@ -38,18 +38,6 @@
             - Awarded multiple high distinctions for courses including Mathematical Modelling, Science and Professional Communication, Physics Industrial Project and Working with Aboriginal Communities
             - Successful recipient of the SMART Scholarship and the Science and Engineering Scholarship, which provided essential experience and training in science communication and event assistance
 
-- title: Leadership
-  type: nested_list
-  contents:
-    - title:
-      items:
-        Karlie has a wide-range of experience in leading national programs and international research collaborations. 
-          - Appointed Indigenous consultant to the National Committee for Astronomy, Karlie spearheaded the integration of Indigenous inclusion within the Decadal Plan for Astronomy 2025-2035. 
-          - She lead the integration of Indigenous astronomy within a first year astonomy course at the ANU’s Research School of Astronomy and Astrophysics. 
-          - Led the publication of First Knowledges Astronomy – Sky Country, facilitating comprehensive community consultation, research, writing and editing. 
-          - Helped secure $25 million for CSIRO to establish and manage the Indigenous Girls' STEM Academy. 
-        Karlie is recognized as a leader and trailblazer for Indigenous excellence and advocacy, with impact spanning her ancestral regions of the Kamilaroi and Wiradjuri Nations, nationally and internationally.
-
 - title: Experience
   type: time_table
   contents:
@@ -59,6 +47,8 @@
       description:
         - Co-lecturer and co-conveyor of ASTR1003, an introductory astronomy course accessible from the ANU and EdX
         - Member of the National Committee for Astronomy, where she reports on community engagement in astronomy at a national level
+        - Co-organiser of an annual Indigenous Astronomy Work Experience program at the Research School for Astronomy and Astrophysics
+
     - title: Astronomy Ambassador
       institution: The Sydney Observatory, Museum of Applied Arts and Sciences
       year: 2020-2021
@@ -82,16 +72,29 @@
         - Cultural mentor for Indigenous STEM camps
         - title: Part-time research assistant for the monitoring and evaluation of the Project
           contents:
+            - Lead the successful implimentation on the inaugural Indigenous STEM Awards
             - Received multiple ethics approvals to conduct monitoring and evaluation
 
     - title: Administration Assistant
       institution: SMART program, University of Newcastle, Australia
       year: 2011-2016
       description:
-        - Karlie presented science shows to over 100,000 students from remote Aboriginal communities and low socioeconomic status areas across a duration of 6 years
+        - Karlie presented science shows to over 100,000 students from remote Aboriginal communities and low socio-economic status areas across a duration of 6 years
         - Managed and trained 20 presenters
         - Co-hosted Australia's first Cafe Scientifique 
         - Developed teaching materials for the University of Newcastle's second year science communication course
+
+- title: Leadership
+  type: nested_list
+  contents:
+    - title:
+      items:
+        - Karlie has a wide-range of experience in leading national programs and international research collaborations. 
+        - Appointed Indigenous consultant to the National Committee for Astronomy, Karlie spearheaded the integration of Indigenous inclusion within the Decadal Plan for Astronomy 2025-2035. 
+        - She lead the integration of Indigenous astronomy within a first year astonomy course at the ANU’s Research School of Astronomy and Astrophysics. 
+        - Led the publication of First Knowledges Astronomy – Sky Country, facilitating comprehensive community consultation, research, writing and editing. 
+        - Helped secure $25 million for CSIRO to establish and manage the Indigenous Girls' STEM Academy. 
+        - Karlie is recognized as a leader and trailblazer for Indigenous excellence and advocacy, with impact spanning her ancestral regions of the Kamilaroi and Wiradjuri Nations, nationally and internationally.
 
 - title: Notable Projects
   type: time_table

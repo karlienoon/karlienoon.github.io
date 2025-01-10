@@ -1,14 +1,19 @@
 <ul class="card-text font-weight-light list-group list-group-flush">
-    {% for content in entry.contents %}
-      <li class="list-group-item">
+  {% for content in entry.contents %}
+    <li class="list-group-item">
       <h5 class="font-italic">{{ content.title }}</h5>
+      
       {% if content.items %}
+        <!-- Display the first item as a paragraph -->
+        <p class="lead">{{ content.items[0] }}</p>
+
+        <!-- Display the remaining items as a list -->
         <ul class="subitems">
-          {% for subitem in content.items %}
+          {% for subitem in content.items[1:] %}
             <li><span class="subitem">{{ subitem }}</span></li>
           {% endfor %}
         </ul>
       {% endif %}
-      </li>
-    {% endfor %}
+    </li>
+  {% endfor %}
 </ul>

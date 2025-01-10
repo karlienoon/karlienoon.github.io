@@ -99,6 +99,9 @@
 - title: Notable Projects
   type: time_table
   contents:
+    - title: TedX
+      year: 2024
+      description: Karlie gave her first Ted Talk as apart of the annual TedX Canberra event where she spoke about Inidgenous-led astro-environmentalism and the coloniality of the modern space industry
     - title: Cultural consultant to Bangarra Dance Company
       year: 2023
       description: Karlie was a cultural consultant on Indigenous sky knowledge for Bangarra's most recent performance, Yuldea
@@ -112,6 +115,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2024
+      items:
+        - The University of Newcastle’s Indigenous Alumni of the Year
     - year: 2023
       items: 
         - Received the Joan Duffield Research Scholarship for research achievements from ANU's Research School of Astronomy and Astrophysics
@@ -131,7 +137,7 @@
 - title: Conference Presentations
   type: time_table
   contents:
-    - title: ESO and SKA
+    - title: ESO-SKA
       year: 2024
       description: 
         - As apart of the Cosmic Ecosystems in Radio & Optical conference held in Busselton, Western Australia, Karlie presented on her most recent PhD work which using modelling to explore chemical phase transitions in the Milky Way's nuclear wind. 

@@ -35,7 +35,7 @@
       description:
         - title: Majors include pure mathematics and physics.
           contents:
-            - Awarded multiple high distinctions for courses including *Mathematical Modelling*, *Science and Professional Communication*, *Physics Industrial Project* and *Working with Aboriginal Communities*
+            - Awarded multiple high distinctions for courses including Mathematical Modelling, Science and Professional Communication, Physics Industrial Project and Working with Aboriginal Communities
             - Successful recipient of the SMART Scholarship and the Science and Engineering Scholarship, which provided essential experience and training in science communication and event assistance
 
 - title: Experience
@@ -116,14 +116,18 @@
 - title: Conference Presentations
   type: time_table
   contents:
+  - title:
+      year: 2024
+      description: 
+        - As apart of the <b>Cosmic Ecosystems in Radio & Optical</b> conference held in Busselton, Western Australia, Karlie presented on her most recent PhD work which using modelling to explore chemical phase transitions in the Milky Way's nuclear wind. 
     - title:
       year: 2024
       description: 
-        - Karlie was invited to the Dhuluny Conference held in Bathurst commemorating the 200th year anniversary since martial law was declared on the Wiradyuri nation. Karlie presented on what would have been visible in the sky during this time.
+        - Karlie was invited to the <b>Dhuluny conference</b> held in Bathurst commemorating the 200th year anniversary since martial law was declared on the Wiradyuri nation. Karlie presented on what would have been visible in the sky during this time.
     - title:
       year: 2023
       description: 
-        - Karlie was invited to speak at the 2023 Asteroids, Comets and Meteors conference in Flagstaff, Arizona. She presented her research on safeguarding Indigenous sky rights from colonial exploitation.
+        - Karlie was invited to speak at the <b>2023 Asteroids, Comets and Meteors conference</b> in Flagstaff, Arizona, USA. She presented her research on safeguarding Indigenous sky rights from colonial exploitation.
         - Presenting her first paper of her PhD, Karlie attended the 2023 Interstellar Institute in Paris, France.
 
 - title: Academic Interests
@@ -131,7 +135,10 @@
   contents:
     - title: Cold clouds in the Milky Way wind
       items: 
-        - Using radio and submillimeter observations and simulations, Karlie probes the evolution of atomic and molecular clouds entrained in the Milky Way's nuclear wind, with particular interest in the non-equilibrium chemistry of these clouds.
+        - Using radio and submillimeter observations and theory, Karlie probes the evolution of atomic and molecular clouds entrained in the Milky Way's nuclear wind, with particular interest in the non-equilibrium chemistry of these clouds.
     - title: Indigenous sky knowledge
       items:
         - Karlie researchers, embeddes and shares the astronomical knowledge of Indigenous peoples, Songlines and culture.
+    - title: Dark skies
+      items:
+        - Karlie investigates and advocates for dark sky preservation and Indigenous-led astro-environmentalism. 

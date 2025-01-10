@@ -5,11 +5,11 @@
       
       {% if content.items %}
         <!-- Display the first item as a paragraph -->
-        <p class="lead">{{ content.items[0] }}</p>
+        <p class="lead">{{ content.items|first }}</p>
 
         <!-- Display the remaining items as a list -->
         <ul class="subitems">
-          {% for subitem in content.items[1:] %}
+          {% for subitem in content.items|slice:"1:" %}
             <li><span class="subitem">{{ subitem }}</span></li>
           {% endfor %}
         </ul>
